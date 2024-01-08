@@ -5,13 +5,13 @@ A beautiful Flutter UI for showcasing trips, with a focus on the current trip, p
 ## Screenshots
 
 ### Home Page
-![Home Page](C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132458.png)
+C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132458.png
 
 ### Current Trip Screen
-![Current Trip Screen](C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132506.png)
+C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132506.png
 
 ### Info Page 
-![Info Page](C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132516.png)
+C:\Users\HP USER\Pictures\Screenshots\Screenshot 2024-01-08 132516.png
 
 ## Features
 
